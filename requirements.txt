@@ -1,0 +1,9 @@
+twilio 
+python-dotenv
+selenium 
+requests
+datetime
+python-dotenv
+google-generativeai
+google 
+google.cloud

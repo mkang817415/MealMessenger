@@ -1,0 +1,1 @@
+Down below are two menus from two different dining halls at Bowdoin College. Give me two short bullet points that lists the pros of each dining hall's menu based on your opinion of which menu is better. If there is only one menu available, just provide the pros of that one menu, no need to state anything about the menu with no information \n 
